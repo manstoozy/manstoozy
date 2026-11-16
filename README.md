@@ -2,15 +2,15 @@
 
 🔭 **I’m currently working on:** My Python and C++ programming journey, including a 30-day coding challenge and projects for my GitHub portfolio.<br><br>
 
-👯 **I’m looking to collaborate on:** Beginner-friendly Python, C++ and software development projects.<br><br>🤝 
+👯 **I’m looking to collaborate on:** Beginner-friendly Python, C++ and software development projects.<br><br>
 
-**I’m looking for help with:** Improving my programming skills, writing better code and gaining practical experience in software development and cybersecurity.<br><br>🌱 
+🤝**I’m looking for help with:** Improving my programming skills, writing better code and gaining practical experience in software development and cybersecurity.<br><br>
 
-**I’m currently learning:** Python, C++, networking, Linux and software development fundamentals.<br><br>💬 
+🌱**I’m currently learning:** Python, C++, networking, Linux and software development fundamentals.<br><br>
 
-**Ask me about:** Computer Systems Engineering, Python basics, C++ fundamentals and networking.<br><br>⚡
+💬**Ask me about:** Computer Systems Engineering, Python basics, C++ fundamentals and networking.<br><br>
 
-**Fun fact:** I'm passionate about both technology and fitness. I enjoy challenging myself to improve both mentally and physically.
+⚡**Fun fact:** I'm passionate about both technology and fitness. I enjoy challenging myself to improve both mentally and physically.
 
 
 ## 🌐 Socials:
